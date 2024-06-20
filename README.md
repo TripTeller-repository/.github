@@ -45,7 +45,7 @@
 
   - <span style="background-color:#fff5b1">1차</span> : 기획 및 개발 (24.04.01 ~ 24.04.19) [3주]<br>
   - <span style="background-color:#fff5b1">2차</span> : 리팩토링 (24.06.01 ~24.06.15) [2주]<br>
-    - (주)엘리스가 보유하고 있는 프라이빗 GitLab 저장소에서 1차 개발을 마친 후, 개별적으로 Github Organization 생성하여 2차 리팩토링을 진행함.
+    - (주)엘리스가 보유하고 있는 프라이빗 GitLab 저장소에서 1차 개발을 마친 후,<br> 개별적으로 Github Organization 생성하여 2차 리팩토링을 진행함.
 
 - ### 진행 인원 및 역할 <br>
 
@@ -56,12 +56,13 @@
     | 문채영 | 팀원 | Backend | • DailyPlan, DailySchedule, Expense, TravelLog 스키마 및 API 생성 |
     | 손민혁 | 팀원 | FrontEnd | • 로그인 및 회원가입, 회원정보수정, 예산/지출페이지 |
     | 이보미 | 팀원 | FrontEnd | • 우리의여행, 여행로그 상세페이지, 여행로그 작성페이지 |
-    | 이유림 | 팀원 | FrontEnd | • 메인페이지 , 나의 여행 페이지 |
+    | 이유림 | 팀원 | FrontEnd | • 메인페이지, 나의 여행 페이지 |
     | 임기택 | 팀원 | FrontEnd | • 일정/관리 페이지, Kakao지도 API 활용 |
 
 - ### 관련 링크
 
-  - <span style="background-color:#fff5b1">노션 페이지</span> : https://night-softball-75b.notion.site/TripTeller-7-fb8597f05d9b49fabcc86e4b6c3535ec?pvs=4
+  - <span style="background-color:#fff5b1">노션 페이지</span> : https://night-softball-75b.notion.site/TripTeller-7-fb8597f05d9b49fabcc86e4b6c3535ec?pvs=4<br>
+  - <span style="background-color:#fff5b1">피그마</span> : https://www.figma.com/design/succJjTiEnDzypCZ3s5s0n/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84-%EC%9E%91%EC%97%85?node-id=0-1
   - <span style="background-color:#fff5b1">Swagger 배포 문서</span> :
   - <span style="background-color:#fff5b1">포지션별 Github ReadMe</span>
     - 프론트엔드 : https://github.com/TripTeller-repository/TripTeller_FE
@@ -75,6 +76,8 @@
 ---
 
 ## 🔷 스토리보드
+
+## ![스토리보드](https://github.com/TripTeller-repository/.github/assets/127278410/46332d56-dc87-4407-8094-dd8923af8c46)
 
 ## ![스토리보드](https://github.com/TripTeller-repository/.github/assets/127278410/bb426e8c-15d9-44e9-b111-243b1bf96a7e)
 
