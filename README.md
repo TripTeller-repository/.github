@@ -18,6 +18,7 @@
 - [스토리보드](#스토리보드)<br>
 - [페이지 구성](#페이지-구성)<br>
 - [기능 설명](#기능-설명)<br>
+- [참고 링크](#참고-링크)<br>
 
 ---
 
@@ -38,18 +39,19 @@
 
 ## 🔷 프로젝트 개요<br>
 
-- <b>진행 기간</b><br>
+- ### 진행 기간 <br>
 
   - 1차 : 기획 및 개발 (24.04.01 ~ 24.04.19) [3주]<br>
   - 2차 : 리팩토링 (24.06.01 ~24.06.15) [2주]<br>
+    - (주)엘리스가 보유하고 있는 프라이빗 GitLab 저장소에서 1차 개발을 마친 후, 개별적으로 Github Organization 생성하여 2차 리팩토링을 진행함.
 
-- <b>진행 인원 및 역할</b><br>
+- ### 진행 인원 및 역할 <br>
 
   - 6명 (프론트엔드 4명, 백엔드 2명)<br>
   - 프론트엔드 : 이보미, 손민혁, 임기택, 이유림<br>
   - 백엔드 : 이가린, 문채영<br>
 
-- <b>관련 링크</b>
+- ### 관련 링크
 
   - 노션 페이지 : https://night-softball-75b.notion.site/TripTeller-7-fb8597f05d9b49fabcc86e4b6c3535ec?pvs=4
   - Swagger 배포 문서 :
@@ -57,7 +59,7 @@
     - 프론트엔드 : https://github.com/TripTeller-repository/TripTeller_FE
     - 백엔드 : https://github.com/TripTeller-repository/TripTeller_BE
 
-- <b>기술 스택</b>
+- ### 기술 스택
   - 프론트엔드 : ReactJS, Vite, JavaScript
   - 백엔드 : NestJS, MongoDB, TypeScript
   - 배포 : AWS S3, Route53, Cloudfront, EC2
@@ -284,7 +286,7 @@
 
 ---
 
-## 🔷 출처
+## 🔷 참고 링크
 
 <details>
 <summary>Mock Data 세팅</summary>
