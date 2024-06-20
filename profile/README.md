@@ -1,6 +1,6 @@
 # 🌸TripTeller (트립텔러)
 
-> **"당신의 여행이 우리의 이야기가 되는 공간"**
+> **<span style="background-color:#FFE6E6">"당신의 여행이 우리의 이야기가 되는 공간"</span>**
 
 > "여러분의 여행을 흥미로운 이야기로 바꿀 준비가 되셨나요?<br>
 > 지금 여행을 시작하고, 트립텔러와 이야기를 공유하세요."
@@ -24,16 +24,18 @@
 
 ## 🔷 서비스 소개
 
-나만의 여행 일지를 기록하고 다른 사람들과 공유하는 서비스
+- <span style="background-color:#fff5b1"><b>요약</b></span> : 나만의 여행 일지를 기록하고 다른 사람들과 공유하는 서비스
 
-- 여행 전 여행을 계획하고, 다녀온 여행을 기록하는 '나의 여행'과 다른 사람이 공유한 여행을 감상할 수 있는 '우리의 여행' 서비스가 있다.
-  - **나의 여행**
-    - 요일, 장소, 시간별로 여행을 계획할 수 있다.
-    - 지출 예산을 설정하고 항목별 지출을 관리할 수 있다.
-    - 계획을 바탕으로 여행 이야기를 작성할 수 있다.
+- <span style="background-color:#fff5b1"><b>기획 의도</b></span> : 기존 여행 관련 서비스<i>(야놀자, 여기핫태)</i>와 다르게 이미지를 통해 감성을 불러일으키는 데 초점을 맞춘 여행 플랫폼을 만들고자 함.
+
+- 여행 전 여행을 계획하고, 다녀온 여행을 기록하는 <b>'나의 여행'</b>과 다른 사람이 공유한 여행을 감상할 수 있는 <b>'우리의 여행'</b> 서비스가 있음.<br>
+  - **<span style="background-color:#FFE6E6">나의 여행</span>**<br>
+    - 요일, 장소, 시간별로 여행을 계획
+    - 지출 예산을 설정하고 항목별 지출을 관리
+    - 계획을 바탕으로 여행 이야기를 작성
     - ‘**지난 여행**’ : 본인이 작성한 게시물이 있는 카테고리
-  - **우리의 여행**
-    - 작성한 여행 이야기를 다른 사람들과 공유할 수 있다.
+  - **<span style="background-color:#FFE6E6">우리의 여행</span>**<br>
+    - 작성한 여행 이야기를 다른 사람들과 공유
 
 ---
 
@@ -41,32 +43,41 @@
 
 - ### 진행 기간 <br>
 
-  - 1차 : 기획 및 개발 (24.04.01 ~ 24.04.19) [3주]<br>
-  - 2차 : 리팩토링 (24.06.01 ~24.06.15) [2주]<br>
-    - (주)엘리스가 보유하고 있는 프라이빗 GitLab 저장소에서 1차 개발을 마친 후, 개별적으로 Github Organization 생성하여 2차 리팩토링을 진행함.
+  - <span style="background-color:#fff5b1">1차</span> : 기획 및 개발 (24.04.01 ~ 24.04.19) [3주]<br>
+  - <span style="background-color:#fff5b1">2차</span> : 리팩토링 (24.06.01 ~24.06.15) [2주]<br>
+    - (주)엘리스가 보유하고 있는 프라이빗 GitLab 저장소에서 1차 개발을 마친 후,<br> 개별적으로 Github Organization 생성하여 2차 리팩토링을 진행함.
 
 - ### 진행 인원 및 역할 <br>
 
   - 6명 (프론트엔드 4명, 백엔드 2명)<br>
-  - 프론트엔드 : 이보미, 손민혁, 임기택, 이유림<br>
-  - 백엔드 : 이가린, 문채영<br>
+    | 이름 | 역할 | 포지션 | 담당 업무 |
+    |----------------------------|---------------------------|---------------------------|--------------------------|
+    | 이가린 | 팀장 | Backend | • User, Authentication, Feed, Scrap 스키마 및 API 생성<br> • 클라이언트 및 서버 배포 |
+    | 문채영 | 팀원 | Backend | • DailyPlan, DailySchedule, Expense, TravelLog 스키마 및 API 생성 |
+    | 손민혁 | 팀원 | FrontEnd | • 로그인 및 회원가입, 회원정보수정, 예산/지출페이지 |
+    | 이보미 | 팀원 | FrontEnd | • 우리의여행, 여행로그 상세페이지, 여행로그 작성페이지 |
+    | 이유림 | 팀원 | FrontEnd | • 메인페이지, 나의 여행 페이지 |
+    | 임기택 | 팀원 | FrontEnd | • 일정/관리 페이지, Kakao지도 API 활용 |
 
 - ### 관련 링크
 
-  - 노션 페이지 : https://night-softball-75b.notion.site/TripTeller-7-fb8597f05d9b49fabcc86e4b6c3535ec?pvs=4
-  - Swagger 배포 문서 :
-  - 포지션별 Github ReadMe
+  - <span style="background-color:#fff5b1">노션 페이지</span> : https://night-softball-75b.notion.site/TripTeller-7-fb8597f05d9b49fabcc86e4b6c3535ec?pvs=4<br>
+  - <span style="background-color:#fff5b1">피그마</span> : https://www.figma.com/design/succJjTiEnDzypCZ3s5s0n/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84-%EC%9E%91%EC%97%85?node-id=0-1
+  - <span style="background-color:#fff5b1">Swagger 배포 문서</span> :
+  - <span style="background-color:#fff5b1">포지션별 Github ReadMe</span>
     - 프론트엔드 : https://github.com/TripTeller-repository/TripTeller_FE
     - 백엔드 : https://github.com/TripTeller-repository/TripTeller_BE
 
 - ### 기술 스택
-  - 프론트엔드 : ReactJS, Vite, JavaScript
-  - 백엔드 : NestJS, MongoDB, TypeScript
-  - 배포 : AWS S3, Route53, Cloudfront, EC2
+  - <span style="background-color:#fff5b1">프론트엔드</span> : ReactJS, Vite, JavaScript
+  - <span style="background-color:#fff5b1">백엔드</span> : NestJS, MongoDB, TypeScript
+  - <span style="background-color:#fff5b1">배포</span> : AWS S3, Route53, Cloudfront, EC2
 
 ---
 
 ## 🔷 스토리보드
+
+## ![스토리보드](https://github.com/TripTeller-repository/.github/assets/127278410/46332d56-dc87-4407-8094-dd8923af8c46)
 
 ## ![스토리보드](https://github.com/TripTeller-repository/.github/assets/127278410/bb426e8c-15d9-44e9-b111-243b1bf96a7e)
 
@@ -89,7 +100,7 @@
 ### ✅ 기본적인 회원 인증 시스템
 
 - '나의여행' 서비스는 로그인이 필요한 서비스임.
-- 회원가입, 로그인, 로그아웃, 소셜로그인(카카오)이 가능함.
+- <u>회원가입, 로그인, 로그아웃, 소셜로그인(카카오)</u>이 가능함.
 
 <details>
 <summary><b>회원가입</b> (시연 GIF)</summary>
@@ -108,7 +119,7 @@
 </div>
 </details>
 <details>
-<summary><b>카카오로그인</b> (시연 GIF)</summary>
+<summary><b>카카오 로그인</b> (시연 GIF)</summary>
 <div markdown="1">
 
 ![카카오로그인(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/4a798db6-0792-43cd-9b06-4a441cef2347)
@@ -128,9 +139,9 @@
 
 ### ✅ '나의 여행'에서 새로운 여행기록 작성하기
 
-- '새로 만들기' 버튼을 누르면 모달 창에 입력된 여행 시작일과 종료일을 기준으로 날짜별로 UI 카드가 동적으로 생성됨.<br>
+- '새로 만들기' 버튼을 누르면 모달 창에 입력된 여행 시작일과 종료일을 기준으로 <u>날짜별 UI 카드가 동적으로 생성</u>됨.<br>
   - ex) 6월 1일부터 6월 5일까지 여행하는 경우 일일 UI 카드 5개가 화면에 렌더링됨.
-- 하나의 여행기록을 세 가지 카테고리('일정관리', '예산/지출', '여행로그')에서 관리할 수 있음.
+- 하나의 여행기록을 세 가지 카테고리(<u>'일정관리', '예산/지출', '여행로그'</u>)에서 관리할 수 있음.
 
 <details>
 <summary><b>신규여행 만들기</b> (시연 GIF)</summary>
