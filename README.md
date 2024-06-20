@@ -5,7 +5,7 @@
 > "여러분의 여행을 흥미로운 이야기로 바꿀 준비가 되셨나요?<br>
 > 지금 여행을 시작하고, 트립텔러와 이야기를 공유하세요."
 
-> <b>https://www.trip-teller.com/
+> <b>https://www.trip-teller.com/</b>
 
 ![리드미최상단](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/b352ffe2-4031-4e95-91e8-544906929139)
 
@@ -83,11 +83,142 @@
 ---
 
 ## 🔷 기능 설명
+
 <details>
 <summary>게시물 공개/비공개 전환</summary>
 <div markdown="1">
 
 ![공개비공개](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/4bfb1d44-1e38-4ca3-8474-334696f19155)
+
+</div>
+</details>
+<details>
+<summary>로그인</summary>
+<div markdown="1">
+
+![로그인(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/dbdb50c7-4ab3-496b-8882-febbc8f46510)
+
+</div>
+</details>
+<details>
+<summary>카카오로그인</summary>
+<div markdown="1">
+
+![카카오로그인(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/4a798db6-0792-43cd-9b06-4a441cef2347)
+
+</div>
+</details>
+<details>
+<summary>로그아웃</summary>
+<div markdown="1">
+
+![로그아웃(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/5edc9b52-7373-4cdb-9fae-cdedfc961a61)
+
+</div>
+</details>
+<details>
+<summary>회원가입</summary>
+<div markdown="1">
+
+![회원가입(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/c57e7fd3-5e9a-4f5c-9031-ed2ed8c97767)
+
+</div>
+</details>
+<details>
+<summary>신규여행 만들기</summary>
+<div markdown="1">
+
+![신규여행만들기1(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/50f57dff-9304-4030-a8c6-f40d8c36950d)
+
+![신규여행만들기2(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/08734179-7efe-4527-8461-0d69aad8e563)
+
+</div>
+</details>
+<details>
+<summary>닉네임 변경</summary>
+<div markdown="1">
+
+![닉네임변경(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/c9988ef1-2960-4b7a-a18e-bca28fb4d66d)
+
+</div>
+</details>
+<details>
+<summary>메인화면 캐러셀</summary>
+<div markdown="1">
+
+![메인화면-캐러셀(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/c31ae84c-efc2-4bf4-89ad-66ec72f25087)
+
+</div>
+</details>
+<details>
+<summary>상단이동</summary>
+<div markdown="1">
+
+![상단이동(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/0730a48d-2830-41ff-99df-f91e33cd0565)
+
+</div>
+</details>
+<details>
+<summary>여행로그 작성</summary>
+<div markdown="1">
+
+![여행로그-작성(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/c9dc6376-f1e6-48dc-8ec1-0c0055b85bd6)
+
+</div>
+</details>
+<details>
+<summary>우리의여행 일대일</summary>
+<div markdown="1">
+
+![우리의여행-일대일](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/3907884a-d7c8-4984-96d3-b67007563940)
+
+</div>
+</details>
+<details>
+<summary>일정관리 삭제</summary>
+<div markdown="1">
+
+![일정관리-삭제(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/3ed6e72e-7872-42b0-b00e-e78dc7c52fd5)
+
+</div>
+</details>
+<details>
+<summary>일정관리 생성</summary>
+<div markdown="1">
+
+![일정관리-생성(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/c2c63c05-a303-4a55-94e7-c2f158e790aa)
+
+</div>
+</details>
+<details>
+<summary>지출내역 바</summary>
+<div markdown="1">
+
+![지출내역-바(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/62ac9d32-2974-481a-bcda-58571726caad)
+
+</div>
+</details>
+<details>
+<summary>지출내역 생성</summary>
+<div markdown="1">
+
+![지출내역-생성(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/a7030b19-ef32-4f47-8e0d-ff340eb31be2)
+
+</div>
+</details>
+<details>
+<summary>클립보드 링크</summary>
+<div markdown="1">
+
+![클립보드링크(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/b9dee598-8d6a-4e68-95a4-3c9bf68139bc)
+
+</div>
+</details>
+<details>
+<summary>프사 변경</summary>
+<div markdown="1">
+
+![프로필사진변경(배)](https://github.com/TripTeller-repository/TripTeller_BE/assets/127278410/743a9c5c-cab9-4ec1-b2a3-b6f6a406cec1)
 
 </div>
 </details>
