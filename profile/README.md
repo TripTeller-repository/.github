@@ -88,7 +88,7 @@
 
   - <b>노션 페이지</b> : https://night-softball-75b.notion.site/TripTeller-7-fb8597f05d9b49fabcc86e4b6c3535ec?pvs=4<br>
   - <b>피그마</b> : https://www.figma.com/design/succJjTiEnDzypCZ3s5s0n/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84-%EC%9E%91%EC%97%85?node-id=0-1
-  - <b>Swagger 배포 문서</b> : https://tripteller-apidoc.s3.ap-northeast-2.amazonaws.com/swagger-index.html
+  - <b>Swagger 배포 문서</b> : https://api.trip-teller.com/api
   - <b>포지션별 Github 저장소</b>
     - 프론트엔드 : https://github.com/TripTeller-repository/TripTeller_FE
     - 백엔드 : https://github.com/TripTeller-repository/TripTeller_BE
